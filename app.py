@@ -30,7 +30,6 @@ def start_analyzer():
         return Response(response=b'hello get analyzer', status=HttpStatusCode.RESPONSE_OK)
 
     elif request.method == 'POST':
-
         app.logger.info("Received request to trigger run")
         # print("Got request")
         response_key = APIConstant.ERROR_RESPONSE_KEY
