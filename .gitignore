@@ -1,0 +1,10 @@
+# Ignore files inside vv folder
+vv/*
+
+# Ignore __pycache__ folders at every folder
+**/__pycache__/*
+
+/.pytest_cache/*
+
+run.log
+app.log

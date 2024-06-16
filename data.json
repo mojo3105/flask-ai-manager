@@ -1,0 +1,118 @@
+[
+    {
+      "topic": "progress",
+      "clientID": "0ad2a940-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "48d9f96a1207a688891c41a61e406a2b9424ea77c9126c448b6d6a053382c1d7",
+      "data": {
+        "model": "resnet",
+        "progress": 72,
+        "finished": true,
+        "errors": []
+      }
+    },
+    {
+      "topic": "status",
+      "clientID": "1e2f97b0-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "f4d7aa57f0eef1819a86e46de9c8eb1ff4e23e2073158e7b15f537c225d9377e",
+      "data": {
+        "state": "running",
+        "usage": {
+          "cpu": 50,
+          "memory": 65
+        }
+      }
+    },
+    {
+      "topic": "progress",
+      "clientID": "2e8c5910-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "88f461165840e05db4e98ec99eb1e3c31c2e8a8f04e87d4c73f8b077d59cfc66",
+      "data": {
+        "model": "ssd",
+        "progress": 15,
+        "finished": false,
+        "errors": ["connection lost"]
+      }
+    },
+    {
+      "topic": "status",
+      "clientID": "3fde4c20-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "b614a26d067f9a78c89d93e97cc695d0ceab5d45c49820f581c5c7a245460548",
+      "data": {
+        "state": "idle",
+        "usage": {
+          "cpu": 10,
+          "memory": 30
+        }
+      }
+    },
+    {
+      "topic": "progress",
+      "clientID": "4f1fb330-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "c55b0d7b17f1f94e56db7f1fe539b875769d4ca8f71ebeeeab6e6b25d7c5c5a7",
+      "data": {
+        "model": "gan",
+        "progress": 90,
+        "finished": true,
+        "errors": []
+      }
+    },
+    {
+      "topic": "status",
+      "clientID": "5fadb440-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "e62f6e69c74ebec6d26d9cb0e4ff66df862a5e13b3a6b5b4e2e40c6b5f3e7eb4",
+      "data": {
+        "state": "paused",
+        "usage": {
+          "cpu": 25,
+          "memory": 50
+        }
+      }
+    },
+    {
+      "topic": "progress",
+      "clientID": "6eafcc50-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "16d001c543edc65bb87b41603ab2a4b45ca9f57c7c73212edc5f1089a5161051",
+      "data": {
+        "model": "faster-rcnn",
+        "progress": 50,
+        "finished": false,
+        "errors": ["out of memory"]
+      }
+    },
+    {
+      "topic": "status",
+      "clientID": "7eb1e560-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "3ed6d2073ff1e8ea6aa8a5708576a9d12dbafc651c50b43d723d322a5e01a995",
+      "data": {
+        "state": "active",
+        "usage": {
+          "cpu": 80,
+          "memory": 85
+        }
+      }
+    },
+    {
+      "topic": "progress",
+      "clientID": "8e29f670-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "bca3755e997de41c4f04c2f725e51c8df5a35d122ab3f85cf1e3984330350dd0",
+      "data": {
+        "model": "unet",
+        "progress": 20,
+        "finished": false,
+        "errors": []
+      }
+    },
+    {
+      "topic": "status",
+      "clientID": "9e6b08a0-19b1-11ee-b5a0-978d44f3e1e1",
+      "taskSHA": "59a23a5aa2667bb0b5c0ea78e7e650e162e81e10c5d9bf9978f94bfdaa67f7f4",
+      "data": {
+        "state": "inactive",
+        "usage": {
+          "cpu": 5,
+          "memory": 15
+        }
+      }
+    }
+]
+  
